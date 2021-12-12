@@ -1,0 +1,3 @@
+[submodule "submodule_actions_sub"]
+	path = submodule_actions_sub
+	url = https://github.com/tourcoder/submodule_actions_sub.git
